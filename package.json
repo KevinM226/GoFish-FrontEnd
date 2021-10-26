@@ -1,0 +1,19 @@
+{
+  "name": "gofish-frontend",
+  "version": "1.0.0",
+  "description": "go fish project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinM226/GoFish-FrontEnd.git"
+  },
+  "author": "Duncan Kevin Regis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinM226/GoFish-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/KevinM226/GoFish-FrontEnd#readme"
+}
